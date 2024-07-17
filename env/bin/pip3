@@ -1,4 +1,4 @@
-#!/Users/pranavmac/Desktop/Jupiter/ktm_house_price_prediciton/env/bin/python3
+#!/Users/pranavmac/Desktop/ktm_house_price_prediciton/env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
